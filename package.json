@@ -7,7 +7,7 @@
     "name": "ltaoo",
     "email": "litaowork@aliyun.com"
   },
-  "repository": "/umi-plugin-icons",
+  "repository": "https://github.com/ltaoo/umi-plugin-icons",
   "scripts": {
     "start": "cross-env APP_ROOT=example umi dev",
     "dev": "father-build --watch",
