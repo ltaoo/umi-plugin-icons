@@ -1,6 +1,6 @@
 {
   "name": "umi-plugin-icons",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "lib/index.js",
   "description": "generate React icon from svg",
   "authors": {
@@ -60,6 +60,7 @@
     "lib"
   ],
   "dependencies": {
+    "@babel/runtime": "^7.15.4",
     "easy-icons": "^1.0.0"
   }
 }
