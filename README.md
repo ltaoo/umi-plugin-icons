@@ -1,6 +1,7 @@
 # umi-plugin-icon
 
 更简单的 `SVG` 图标使用方案。
+> 所使用的 `SVG` 图标需要符合 `iconfont` 要求，图标大小1024x1024px，具体要求可查看 [图标绘制](https://www.iconfont.cn/help/detail?spm=a313x.7781069.1998910419.d68c573b2&helptype=draw)
 
 ## 启用方式
 
